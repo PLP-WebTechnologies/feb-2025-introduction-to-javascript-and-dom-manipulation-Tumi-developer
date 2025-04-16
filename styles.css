@@ -1,0 +1,33 @@
+body {
+    color: #ffff;
+    background-color: #0c1117;
+    background-image: url('/img/oliver\,mimi\,rex.png');
+    
+}
+
+#click-btn {
+    background-color: #0eb113; 
+    border: none; 
+    color: white; 
+    padding: 9px 28px;
+    font-family: 'Trebuchet MS'; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 20px; 
+}
+
+ul {
+    /* list-style-type: none;  */
+    padding: 6px 5px; 
+    margin: 15px;
+}
+
+li a {
+    color: aqua;
+}
+
+img {
+    width:100%; 
+    height:auto;
+}
